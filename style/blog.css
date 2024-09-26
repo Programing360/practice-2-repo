@@ -1,0 +1,33 @@
+nav>ul>li{
+     display: inline;
+     margin-right: 20px;
+     text-align: center;
+}
+nav>ul>li>a{
+    text-decoration: none;
+    text-align: center;
+}
+footer{
+    margin-right: 30px;
+    text-align: center;
+}
+.book{
+    color: red;
+}
+.books{
+    text-align: center;
+    font-size: xx-large;
+}
+.para{
+    color: burlywood;
+}
+.meddil{
+    text-align: center;
+    text-shadow: 5px;
+}
+figure>img{
+    text-align: center;
+}
+.rong{
+    color: red;
+}
